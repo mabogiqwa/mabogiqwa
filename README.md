@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://mabogiqwa.github.io/](https://mabogiqwa.github.io/)
 
-- 💬 Ask me about **C++,Qt,Python,Javascript,Deep Learning**
+- 💬 Ask me about **C++, Qt, Python, Javascript, Deep Learning**
 
 - 📫 How to reach me **mabogiqwa@gmail.com**
 
