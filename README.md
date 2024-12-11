@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mabogiqwa@gmail.com**
 
-- ⚡ Fun fact **I enjoy blending logic and creativity, which is why programming feels like my natural playground.**
+- ⚡ Fun fact **I enjoy blending logic, language, and creativity to confront questions about reality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
