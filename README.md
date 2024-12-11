@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Student Registration App**
 
-- 🤝 I’m looking for help with **Web-based Application**
+- 🤝 I’m looking for help with **Web-based Applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mabogiqwa](https://github.com/mabogiqwa)
 
