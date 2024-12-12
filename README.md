@@ -20,7 +20,10 @@
 - ⚡ Fun fact **I enjoy blending logic, language, and creativity to confront questions about reality**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/mabo-giqwa-7880522b5/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/mabo-giqwa-7880522b5/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 20px; height: 20px; margin-right: 8px;">
+  LinkedIn Profile
+</a>
 <p align="left">
 </p>
 
