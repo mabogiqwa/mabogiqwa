@@ -19,7 +19,8 @@
 
 - ⚡ Fun fact **I enjoy blending logic, language, and creativity to confront questions about reality**
 
-<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/mabo-giqwa-7880522b5/"></h3>
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/mabo-giqwa-7880522b5/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
 <p align="left">
 </p>
 
