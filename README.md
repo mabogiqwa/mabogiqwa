@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Web-based Applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mabogiqwa](https://github.com/mabogiqwa)
+- 👨‍💻 Most of my projects are available at [https://github.com/mabogiqwa](https://github.com/mabogiqwa)
 
 - 📝 I regularly write articles on [https://mabogiqwa.github.io/](https://mabogiqwa.github.io/)
 
