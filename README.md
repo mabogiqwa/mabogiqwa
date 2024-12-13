@@ -3,19 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mabogiqwa" alt="mabogiqwa" /></a> </p>
 
-- 🔭 I’m currently working on **Student Registration App**
-
-- 🤝 I’m looking for help with **Web-based Applications**
-
 - 👨‍💻 Most of my projects are available at [https://github.com/mabogiqwa](https://github.com/mabogiqwa)
 
-- 📝 I regularly write articles on [https://mabogiqwa.github.io/](https://mabogiqwa.github.io/)
-
-- 💬 Ask me about **C++, Qt, Python, Javascript, and Deep Learning**
-
 - 📫 How to reach me **mabogiqwa@gmail.com**
-
-- ⚡ Fun fact **I enjoy blending logic, language, and creativity to confront questions about reality**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/mabo-giqwa-7880522b5/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
