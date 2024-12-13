@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm Mabo</h1>
 <h3 align="center">Aspiring Software Developer from South Africa</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mabogiqwa" alt="mabogiqwa" /></a> </p>
-
 - 👨‍💻 Most of my projects are available at [https://github.com/mabogiqwa](https://github.com/mabogiqwa)
 
 - 📫 How to reach me **mabogiqwa@gmail.com**
