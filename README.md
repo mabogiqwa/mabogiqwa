@@ -55,7 +55,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
          alt="css3" width="40" height="40"/>
   </a>
+  
+  <!-- Jupyter Notebooks -->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" 
+         alt="jupyter" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mabogiqwa&show_icons=true&locale=en&layout=compact" alt="mabogiqwa" /></p>
