@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mabogiqwa@gmail.com**
   
-- 📄 View my resume - [here](https://drive.google.com/drive/folders/11qLQdQH7_8fMq-OgqQbqkleNX6ZtYx1p?usp=sharing)
+- 📄 View my resume - [here](https://drive.google.com/drive/u/1/folders/1B2KBoC3N2kQKq-dDks2Z-sWW9hYAg-aW)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/mabo-giqwa-7880522b5/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
