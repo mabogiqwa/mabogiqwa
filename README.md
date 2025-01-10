@@ -18,7 +18,7 @@
     <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
         alt="c" width="40" height="40"/> 
-    </a> 
+    </a>
   
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -48,6 +48,12 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
          alt="tensorflow" width="40" height="40"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+    alt="git" width="40" height="40"/>
   </a>
   
   <!-- HTML5 -->
