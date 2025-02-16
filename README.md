@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Mabo</h1>
 <h3 align="center">Software Engineer based in Johannesburg</h3>
 
-- 📫 How to reach me **mabogiqwa@gmail.com**
+- 📫 How to reach me **mabogiqwa1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/mabo-giqwa-7880522b5/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
