@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Mabo</h1>
-<h3 align="center">Aspiring Software Developer from South Africa</h3>
+<h3 align="center">Software Engineer based in Johannesburg</h3>
 
 - 📫 How to reach me **mabogiqwa@gmail.com**
 
