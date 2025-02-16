@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm Mabo</h1>
 <h3 align="center">Aspiring Software Developer from South Africa</h3>
 
-- 👨‍💻 Most of my projects are available at [https://github.com/mabogiqwa](https://github.com/mabogiqwa)
-
 - 📫 How to reach me **mabogiqwa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
