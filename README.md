@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Mabo</h1>
 <h3 align="center">Mathematics and Computer Science student</h3>
 
+<p>Currently working on building a banking app solution</p>
+
 📫 How to reach me **mabogiqwa1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
