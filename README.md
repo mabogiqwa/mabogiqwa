@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm Mabo</h1>
 <h3 align="center">Mathematics and Computer Science student</h3>
 
-<p>Currently learning programming tools such as React, Angular, Node.js, Django, mySQL, and Oracle to build a comprehensive banking app solution</p>
-
 📫 How to reach me **mabogiqwa1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
