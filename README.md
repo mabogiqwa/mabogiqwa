@@ -4,7 +4,7 @@ I'm currently a Mathematics and Computer Science student at the University of So
 
 Though recognizing the importance of using built-in abstraction in code, I often enjoy building projects from scratch and figuring out the mechanics at work within systems - from hardware architecture that runs code to mathematical models that are the basis of logic and computation.
 
-I currently work as a freelancer at [Outlier](https://github.com/OutlierAI)
+I currently work as a freelancer at [Outlier](https://github.com/OutlierAI) where I review the code quality outputs of various LLMs.
 
 *Topics of interest*: Neural networks, operating systems, differential equations, graph theory and combinatorics, mathematical logic and formal systems, and problem-solving.
 
