@@ -10,5 +10,5 @@ I currently work as a freelancer at [Outlier](https://github.com/OutlierAI) wher
 
 Outside coding and mathematics I enjoy running, and gaming.
 
-## Let's connect:
+#### Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabo-giqwa-7880522b5/)
