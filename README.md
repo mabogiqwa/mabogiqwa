@@ -1,4 +1,4 @@
-*Hi, I'm Mabo*
+*Hi 👋, I'm Mabo*
 
 I'm currently a Mathematics and Computer Science student at the University of South Africa. I'm interested in figuring out how abstract mathematical reasoning and computing intersect. This implies that my work and interests lie at the intersection of algorithms, system design, and artificial intelligence.
 
