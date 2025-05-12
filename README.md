@@ -12,4 +12,4 @@ Outside coding and mathematics I enjoy [running](https://www.strava.com/athletes
 
 #### Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabo-giqwa-7880522b5/)
-[![Medium]([https://medium.com/@mabogiqwa1](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mabogiqwa1)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mabogiqwa1)
