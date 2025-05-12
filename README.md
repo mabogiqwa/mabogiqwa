@@ -8,7 +8,8 @@ I currently work as a freelancer at [Outlier](https://github.com/OutlierAI) wher
 
 *Topics of interest*: Neural networks, operating systems, differential equations, graph theory and combinatorics, mathematical logic and formal systems, and problem-solving.
 
-Outside coding and mathematics I enjoy [running](https://www.strava.com/athletes/76473896), and gaming.
+Outside coding and mathematics I enjoy [running](https://www.strava.com/athletes/76473896), writing, and gaming.
 
 #### Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabo-giqwa-7880522b5/)
+[![Medium]([https://medium.com/@mabogiqwa1](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mabogiqwa1)
