@@ -6,7 +6,7 @@ Though recognizing the importance of using built-in abstraction in code, I often
 
 I currently work as a freelancer at [Outlier](https://github.com/OutlierAI) where I review the code quality outputs of various LLMs.
 
-*Topics of interest*: Computational Intelligence, operating systems, cloud computing, differential equations, graph theory and combinatorics, mathematical logic and formal systems, and problem-solving.
+*Topics of interest*: Computational Intelligence, operating systems, cloud computing, differential equations, graph theory and combinatorics, mathematical logic and formal systems, programming and problem-solving.
 
 Outside coding and mathematics I enjoy [running](https://www.strava.com/athletes/76473896), writing, and gaming.
 
