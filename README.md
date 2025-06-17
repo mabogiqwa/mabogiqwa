@@ -39,15 +39,15 @@ Welcome to my digital playground! I'm a passionate problem solver currently wrap
 
 ---
 
-## 📚 Articles & Writing
+## 📝 Articles & Writing
 
-- [Medium: @mabogiqwa1](https://medium.com/@mabogiqwa1)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mabogiqwa1)
 
 ---
 
 ## 🌐 Connect With Me
 
-- [LinkedIn: mabo-giqwa-7880522b5](https://www.linkedin.com/in/mabo-giqwa-7880522b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabo-giqwa-7880522b5/)
 
 ---
 
